@@ -1,0 +1,39 @@
+.flex
+{
+    display: flex;
+	justify-content: space-between;
+    text-align: center;
+    align-items: center;
+}
+
+.flex2
+{
+    display: flex;
+	justify-content: space-around;
+    text-align: center;
+    align-items: center;
+	background-color: rgb(255, 160, 92);
+	padding: 10px;
+	border-radius: 20px;
+}
+
+.flex3
+{
+    display: flex;
+	justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.flex4
+{
+    display: flex;
+	justify-content: space-around;
+    text-align: center;
+    align-items: center;
+}
+
+.photoMedicine
+{
+	text-align: center;
+}

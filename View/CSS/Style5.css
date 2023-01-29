@@ -1,0 +1,26 @@
+form {
+	padding: 20px;
+    background-color: pink;
+}
+
+.overlaysearch {
+	background-color: white;
+    position: absolute;
+    width: 159px;
+}
+
+.overlaysearch a div {
+	padding: 10px 0px 10px 0px;
+}
+
+.overlaysearch a div h5 {
+	margin: 0px;
+}
+
+.overlaysearch a:nth-child(even) div {
+    background-color: rgb(136, 136, 255);
+}
+
+.overlaysearch a:nth-child(odd) div {
+    background-color: rgb(194, 131, 254);
+}

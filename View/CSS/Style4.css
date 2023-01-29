@@ -1,0 +1,44 @@
+.main {
+    justify-content: center;
+}
+
+.font {
+	font-family: 'Times New Roman', Times, serif;
+}
+
+.hiddenD {
+	display: none;
+}
+
+.hiddenV {
+	visibility: hidden;
+}
+
+a.sameColor:link, a.sameColor:visited, a.sameColor:hover {
+	color: black;
+}
+
+a.sameColor:hover {
+	color: blue;
+}
+
+.medicinex:hover {
+	background-color: red;
+	margin-right: 600px;
+    margin-left: 600px;
+}
+
+.red {
+	color: red;
+}
+
+.save{
+	position: absolute;
+    top: 0;
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    background-color: #808080c2;
+}
