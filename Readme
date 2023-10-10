@@ -1,0 +1,2 @@
+Se trata de una pagina web conectada a una base de datos relacional con funcionalidades sincronas y asincronas siguiendo el modelo Vista/Contorlador.
+Está totalmente diseñada por mi desde la estructura de la base de datos y sus relaciones, hasta la parte visual de HTML y CSS. Esta ultima parte está un poco más descuidada dado que invertí más tiempo en el back que en el front.
