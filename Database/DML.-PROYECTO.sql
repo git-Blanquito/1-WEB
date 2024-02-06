@@ -126,7 +126,7 @@ VALUES
             FROM ESPECIALIDADES
             WHERE nomespec = "Medicina general"
         ),
-        "2018-04-26"
+        '2018-04-26'
     ),
     (
         5,
@@ -135,7 +135,7 @@ VALUES
             FROM ESPECIALIDADES
             WHERE nomespec = "Radiología"
         ),
-        "1998-02-06"
+        '1998-02-06'
     ),
     (
         1,
@@ -144,7 +144,7 @@ VALUES
             FROM ESPECIALIDADES
             WHERE nomespec = "Traumatología"
         ),
-        "2020-08-17"
+        '2020-08-17'
     ),
     (
         3,
@@ -153,7 +153,7 @@ VALUES
             FROM ESPECIALIDADES
             WHERE nomespec = "Traumatología"
         ),
-        "2019-05-17"
+        '2019-05-17'
     ),
     (
         6,
@@ -162,7 +162,7 @@ VALUES
             FROM ESPECIALIDADES
             WHERE nomespec = "Medicina general"
         ),
-        "1992-08-14"
+        '1992-08-14'
     );
 
 
@@ -381,22 +381,22 @@ VALUES
     (
         NULL,
         "Ibuprofeno",
-		"imagenes/Medicamentos/Ibuprofeno.jpg",
-		"false",
+		"imagenes/Medicamentos/Ibuprofeno.JPG",
+		0,
 		"Anti-inflamatorio, quita los dolores y el malestar general."
     ),
 	(
         NULL,
         "Dalsi",
-		"imagenes/Medicamentos/Dalsi.jpg",
-		"false",
+		"imagenes/Medicamentos/Dalsi.JPG",
+		0,
 		"Anti-inflamatorio, quita los dolores y el malestar general."
     ),
 	(
         NULL,
         "SquattyPotty",
-		"imagenes/Medicamentos/SquattyPotty.jpg",
-		"true",
+		"imagenes/Medicamentos/SquattyPotty.JPG",
+		1,
 		"Muy potente, contra el estreñimiento."
     );
 

@@ -3,7 +3,11 @@
 	<head>
 		<meta charset="utf-8" />
 		<title>Listado Medicos</title>
-		<link href="View/CSS/Style.css" rel="stylesheet" type="text/css">
+		<link href="View/CSS/Style1.css" rel="stylesheet" type="text/css">
+		<link href="View/CSS/Style2.css" rel="stylesheet" type="text/css">
+		<link href="View/CSS/Style3.css" rel="stylesheet" type="text/css">
+		<link href="View/CSS/Style4.css" rel="stylesheet" type="text/css">
+		<link href="View/CSS/Style5.css" rel="stylesheet" type="text/css">
 		<script src="View/JS/Medicines.js"></script>
 		<script src="View/JS/Logout.js"></script>
 		<script src="View/JS/Sign_in.js"></script>

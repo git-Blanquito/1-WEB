@@ -6,5 +6,5 @@
 	$userHeader = mod004_userHeader();
 	$divInsurrances = mod004_getInsurances();
     
-	require ("View/view_insurance.php");
+	require ("View/view_Insurance.php");
 ?>

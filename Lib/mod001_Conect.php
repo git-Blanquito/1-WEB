@@ -4,7 +4,7 @@
         $direction = "localhost";
         $user      = "root";
         $pastword  = "";
-        $database  = "proyectov1";
+        $database  = "Proyectov1";
 
         $link = mysqli_connect($direction, $user, $pastword, $database);
 
